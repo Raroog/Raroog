@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Raroog/Raroog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white
@@ -18,4 +15,3 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={Raroog}
 - 🔭 I’m currently working on analysys of scraped data
 - 🌱 I’m currently learning how to better work on linux
 
--->
