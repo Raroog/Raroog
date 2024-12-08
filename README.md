@@ -9,9 +9,3 @@
 
 
 
-
-
-
-- 🔭 I’m currently working on analysys of scraped data created by users of one Polish blogsite
-- 🌱 I’m currently learning how to work better on Linux
-
